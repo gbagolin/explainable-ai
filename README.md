@@ -8,4 +8,5 @@ While the backend can be found in: https://github.com/gbagolin/explainableai-bac
 This repository contains also the presentation of the dissertation, which is a summary of my work if you are interested. 
 
 A video is present down here to present how the web application works: 
-https://github.com/gbagolin/explainable-ai/blob/master/web-app.mp4
+https://user-images.githubusercontent.com/45465549/137742645-74ce516c-7d3f-4594-a83b-6bdb3bc71cb0.mp4
+
